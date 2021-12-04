@@ -9,7 +9,7 @@
   <img align="center" alt="Lang-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lang-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lang-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="gui-avatar" height="150" style="border-radius:50%;" src="https://i.imgur.com/0jJ7Loq.png">
+<!--   <img align="right" alt="gui-avatar" height="150" style="border-radius:50%;" src="https://i.imgur.com/0jJ7Loq.png"> -->
 </div>
   
   ##
@@ -18,6 +18,6 @@
   <a href="https://www.linkedin.com/in/oguiaugusto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/oguiaugusto"  target"_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target"_blank"></a>
  
-  ![Snake animation](https://github.com/oguiaugusto/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/oguiaugusto/oguiaugusto/blob/output/github-contribution-grid-snake.svg)
  
 </div>
