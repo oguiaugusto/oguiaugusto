@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu repositório no GitHub!
 <div align="center">
   <a href="https://github.com/oguiaugusto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguiaugusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguiaugusto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=oguiaugusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguiaugusto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="Lang-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
